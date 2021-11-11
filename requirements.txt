@@ -1,0 +1,12 @@
+jupyter-book
+numpy
+matplotlib
+scipy
+ipywidgets
+pandas
+yahoo_fin
+requests
+requests_html
+lxml
+seaborn
+plotly
