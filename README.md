@@ -105,7 +105,7 @@ Late Work
 
 ### Preparation
 
-* Fill out the pre-class survey (link to be provided)
+* Fill out the [pre-class survey](https://forms.gle/erY1a9oYoy8SSMeC8)
 * If you do not have a GitHub account, create one for the class
   * [https://github.com/](https://github.com/)
 * Make sure you can log into the class JupyterHub
