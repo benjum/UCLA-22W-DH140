@@ -1,9 +1,12 @@
 #  Coding for Humanities
-## UCLA DH140
+## UCLA DH140 / DH250-Seminar-2
 ## Winter 2022
 
 # Meeting Times
-Monday, 2-5pm PT
+Mondays 2:00pm - 4:50pm, Rolfe Hall 2118
+
+* The first two weeks will be held on Zoom
+* Mondays of Weeks 3 (1/17) and 8 (2/21) are academic holidays.  We will not have our usual Monday class session on these weeks, but you will still have assigned work and there will be a replacement Zoom meeting during the week that is optional for attendance.
 
 ## Instructor:
 
@@ -14,184 +17,194 @@ Ben Winjum (bwinjum@oarc.ucla.edu)
 * Fridays 10AM - 12PM and by appointment
     * [Schedule here](https://calendly.com/bwinjum/dh140)
 
-# Course Description
-Coding is a skill.  Coding is an art.  Coding is a tool for creating other forms of expression, web sites, video games, music, and graphic visualizations of the flow of information and ideas.  Coding has produced products that unify people, separate people, reinforce love, reinforce prejudice, entertain, bore, destroy, propagandize, and calm.  Coding has had an undeniable impact on the modern world.  This course will introduce you to coding through the language of Python.  On the one hand, the course will develop your fluency in Python and general coding skills.  We will learn how to speak grammatically correct Python to the computer, we will learn about Python in the context of other languages, we will learn how to use libraries of Python code, and we will learn how to use Python to tell stories of our own.  On the other hand, the course will expose you to ways that Python can be used in the humanities. During our hands-on experiences gaining Python fluency, we’ll look at examples that include (but are not limited to) identifying patterns in literature, recommending new music to your friends, mapping urban inequities, and analyzing social networks.
+## Course Description
+Coding is a skill.  Coding is an art.  Coding is a tool for creating other forms of expression, web sites, video games, music, and graphic visualizations of the flow of information and ideas.  Coding has produced products that unify people, separate people, reinforce love, reinforce prejudice, entertain, bore, destroy, propagandize, and calm.  Coding has had an undeniable impact on the modern world.  This course will introduce you to coding through the language of Python.
 
-# Objectives
-In this course, you will:
+On the one hand, the course will develop your fluency in Python and general coding skills.  We will learn how to speak grammatically correct Python to the computer, we will learn about Python in the context of other languages, we will learn how to use libraries of Python code, and we will learn how to use Python to tell stories of our own.  On the other hand, the course will expose you to ways that Python can be used in the humanities. During our hands-on experiences gaining Python fluency, we’ll look at examples that include (but are not limited to) identifying patterns in literature, recommending new music to your friends, mapping urban inequities, and analyzing social networks.
 
-* Employ the features and tools of the Canvas learning management system to customize course elements that address UCLA Extension's institutional quality standards.
-* Craft a clear, transparent, and detailed course syllabus.
-* Follow best practices to organize and develop course materials.  
-* Utilize Canvas tools to communicate and interact with students.
-* Schedule Zoom meetings in your course.  
+## Learning Outcomes
 
-# Outcomes
-Upon the successful completion of this course, students will be able to:
+During this course, you will:
 
-* Describe the role of data science in decision-making
-* Recognize skills required to perform data science tasks from data acquisition to presentation of data analytic results
-* Demonstrate an understanding of how data science projects are approached
-* Create and use database for data management
-* Explore the concept of storytelling with data
-* Apply programming techniques to prepare data for analysis
-* Explore basic machine learning techniques to solve business problems
-* Perform data analysis using Tableau and Python with MySQL
-* Explore the concept of Natural Language Processing (NLP)
-* Communicate and Present data science project and results
-* Explore R as an alternative to Python
+* Develop proficiency with the programming language Python and with the tools that support code development and practice
+* Demonstrate the value of data for discovery, exploration, and analysis
+* Gain expertise in coding and data science practice and research
+* Apply Python to critically describe, analyze, and visualize data in the context of the humanities
 
-# Materials
-No textbook is required but students must have:
+## Course materials & technology
 
-Windows 10 Laptop with WIFI
-Microsoft Excel
-MySQL
-Tableau (Will be discussed and installed in class)
-Jupyter (Will be discussed and installed in class)
-Python & R (Will be discussed and installed in class)
+The course materials will consist primarily of Jupyter Notebooks and online readings. The only technology requirement on your part is access to a web browser.
 
-# Evaluation
-The requirements for this course (described in detail below) and the contribution of each of these towards the final grade are as follows:
+**Jupyter Notebooks:** All class notebooks will accessible on the web at [this GitHub repository](https://github.com/benjum/UCLA-22W-DH140). You will be able to run them all on the [IDRE JupyterHub](https://jupyter.idre.ucla.edu/) – this is a customized coding environment that is accessible via the web.
 
-Assignments 100%
+**Online Readings:** Each week there will be several readings of online content. These will provide context and stimulus for our coding activities.
 
-          MySQL Exercise 1                                            10%
+**Canvas:** Assignment submissions, quizzes, and discussions will take place on the Canvas course site, accessible at [bruinlearn.ucla.edu](https://bruinlearn.ucla.edu).
 
-          MySQL Exercise 2                                            10%
+## Evaluation
 
-          Tableau Exercise 1                                          10%
+### Grading Breakdown
 
-          Tableau Exercise 2                                           10%
+| Graded Activities | Percentage | Notes |
+| --- | --- | --- |
+| Discussion Posts | 10% | Ten total discussion posts |
+| Quizzes | 5% | Ten total quizzes |
+| Assignments | 60% | Ten total assignments <br> (8 weekly + 2 final-project-related ) |
+| Final Project | 25% | Culminating project demonstrating concepts learned throughout course |
 
-          Statistics Thinking Exercise 1                           10%
+### Discussion Posts
 
-          Data Engineering Exercise 1                             10%
+For each week’s assigned readings, I will post a prompt or question(s) on Canvas, and you will be required to submit a short discussion post in response to it on Canvas by Sunday (11:59pm) before class. The post should be thoughtful and substantive but relatively brief, just a few sentences up to two paragraphs max in length. You’ll get full marks for completing a post that is on-topic. These posts are simply intended to get you thinking about the material. You are also strongly encouraged to read and respond to the posts of your peers, and we will discuss readings in the class after postings have been made.
 
-          Machine Learning Exercise 1                            10%
+### Quizzes
 
-          Machine Learning Exercise 2                            10%
+There will be short quizzes in class each week to reinforce the interactive exercises we’re doing. These are not intended to be stressful, they are intended to help you make sure that you are learning the correct concepts. You will be scored on number of correct answers, but you will be able to retake the quiz as many times as you want before the end of the following day (Tuesday at 11:59pm).
 
-          Machine Learning Exercise 3                            10%
+### Assignments
 
-          Natural Language Processing Exercise 1          10%
+Assignments will be the majority portion of your grade and consist of coding exercises, short answer questions that reflect on content, and preliminary work to get you moving smoothly towards your culminating final project.
 
-# Course Policies
-As we get started in this course, please note the following:
+They will be graded according to the following criteria:
 
-* Please read all Announcements, the Course Syllabus, and information located within the Modules area.
-* If you have questions, reach out! We will also be checking in to provide guidance and support. We typically respond to questions sent to support@unexonline.zendesk.com or through Canvas Inbox within 1 business day (Mon - Fri).
-* After this course ends, it will remain available to you as a resource for approximately two months.
+* **Does it work?:** Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel and running all cells.
+* **Does it work correctly?:** It’s possible to write code that runs ok but does not produce the intended results. The code should be bug-free.
+* **Cleanliness:** Nobody wants to go through unreadable code! Make sure to document your work accordingly, providing markdown cells and comments throughout.
+* **Thinking out of the box:** It is easy to copy an existing notebook and replace datasets and parameters to fulfill an assignment, but how well have you grasped the underlying concepts? This can be demonstrated by *applying* your skills in new ways rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
 
-# Time Expectations
-This training consists of completing action items during a 3-week period that will help you build your upcoming course.
+### Final Project
 
-Week 1 action items may take approximately 2-3 hours to complete
-Week 2 action items may take approximately 1-1.25 hours to complete
-Weed 3 action item may take approximately 15-45 minutes to complete
-You may spend more or less time, depending on your experience with Canvas and online teaching and learning.
+Your final project will revolve around a humanities-related topic of your choice. You will choose supporting datasets of interest, complete an exploratory data analysis, apply at least one of the coding methods that we discuss in class, and craft a narrative that presents conclusions drawn from the data. The final product will be a webpage report (1500+ words, not including figure captions) and a very short (~3-5 minute) presentation of your analysis.
 
-Additional resources are available in the course for participants who want to learn more about the following topics:
+If you would like to work in groups of 2 or 3 on your final project, that is great. We will discuss everyone’s project interests and the possibility of team formation when the time comes. For teams, do note that I will expect more substantial content and a clear description from all team members as to the role of each person in the final product.
 
-How to Build Assignments, Discussions, and Quizzes or Surveys
-How to Record and Post Videos
-Course Design, Teaching, and Learning
-Using Canvas Features
-Grading in Canvas
-Quiz and Course Analytics
-Zoom Features
-Panopto Best Practices
-Action Items 
-All action items are directly applicable to your role as an instructor at Extension in regards to building and delivering your course online. All action items relate to the components that you'll need to build in your own Canvas Course in preparation for your course start date. 
+## Policies
 
-Please submit all work via Canvas in the Canvas Training Course. (All action items are listed in the Modules area.)
-All work will be reviewed and scored according to the rubrics in the course. Your work will be reviewed by an instructional designer, who will provide customized feedback via the Grades area in the Canvas Training Course.
-We aim to review and score submitted work within three business days.
-You will have unlimited opportunities to resubmit your work to receive additional feedback and to earn a passing score for training through 03/05/21. 
-Deadlines and Late Work
-Please submit work by the due dates identified in the Schedule section below. You are welcome to work ahead if you would like to complete the training session sooner.
-(Note: Most action items are due on the Monday following the week it is assigned.)
-Communication is key! We understand that things come up that may prohibit you from submitting an activity on time. Please notify your instructional designer in advance of the deadline if an action item will be submitted late.
-All work must be submitted by the last day of class - 03/05/21.
+Assignments, quizzes, and discussion posts
 
-# Institutional Policies
+* These will become available in the Canvas Modules area on Mondays.
+* Quizzes are due by 11:59pm on the Tuesday following class.
+* Assignments and discussion posts are due by 11:59pm on the Sunday before the next class.
+* All material should be submitted through Canvas.
 
-## Student Conduct
+Grading Policies
 
-Students are subject to disciplinary action for several types of misconduct or attempted misconduct, including but not limited to academic dishonesty, such as cheating, multiple submission, plagiarism, or knowingly furnishing false information to the University; or behavioral misconduct, such as theft or misuse of the intellectual property of others, harassment, or disruption of the learning environment. Students are encouraged to familiarize themselves with the Student Rights & Responsibilities Policy and to report concerns regarding at: https://www.uclaextension.edu/pages/str/studentConduct.jsp.
+* Assignment grades will be posted by the Friday after their due date.
+* If you have a question about your grade, please contact me immediately. I will respond to inquiries within 48 hours.
 
-## Services for Students with Disabilities
+Late Work
 
-In accordance with the Americans with Disabilities Act of 1990, UCLA Extension provides appropriate accommodations and support services to qualified applicants and students with disabilities. These include, but are not limited to, auxiliary aids/services such as sign language interpreters, assistive listening devices for hearing-impaired individuals, extended time for and proctoring of exams, and registration assistance. Accommodations and types of support services vary and are specifically designed to meet the disability-related needs of each student based on current, verifiable medical documentation. Arrangements for auxiliary aids/services are available only through UCLA Extension’s Service for Students with Disabilities Office at (310) 825-7851 or by email at access@uclaextension.edu. For complete information see: https://www.uclaextension.edu/pages/str/studentswithDisabilities.jsp
+* I will be very lenient with deadlines.
+  * We are starting out with 2 zoom meetings and there will be 2 Monday holidays, and in the present environment, I don't want to create consternation in keeping up with the course, let alone any external demands you may have.
+* If you can not submit something on time, simply send me an email telling me when you'll submit the assignment.
+* Final projects are due by the day of the final.
+  * I will be less lenient with this deadline, but if external circumstances prevent you from completing the final project, send me an email to schedule a time that we can discuss your situation in-person (or via Zoom) so that we can work something out.
 
-## Incompletes
+## Weekly Schedule
 
-Your instructor may post the interim grade Incomplete/I if at the end of the class your overall work is of passing quality but a portion could not be submitted for understandable reasons (e.g. illness). It is your responsibility to petition your instructor for permission to submit work late and to provide an explanation, and it is his or her sole decision whether to accept the explanation. If permitted, the Incomplete/I grade will be posted and a time frame defined for you to submit the missing work, ranging from one to twelve weeks. Incomplete/I grades that remain unchanged after twelve weeks will lapse to F, NP or U. Receiving an I grade entitles you to submit only the missing work your instructor has agreed to accept late, and does not allow other work to be retaken or oblige UCLA Extension to provide continuing access to course materials via Canvas. The Incomplete/I grade is not an option for courses that do not bear credit, such as 700, 800, or 900-level courses. For complete information, see: https://www.uclaextension.edu/pages/str/grading.jsp
+**Note:** Weekly content is subject to change and will be modified as needed based on class discussions, needs, and progress.
 
-## All Grades are Final
+### Preparation
 
-No change of grade may be made by anyone other than the instructor, and then, only to correct clerical errors. No term grade except Incomplete may be revised by re-examination. The correction of a clerical error may be authorized only by the instructor of record communicating directly with personnel of Student and Alumni Services.
+* Fill out the pre-class survey (link to be provided)
+* If you do not have a GitHub account, create one for the class
+  * [https://github.com/](https://github.com/)
+* Make sure you can log into the class JupyterHub
+  * [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA for authentication)
 
-## Sexual Harassment
+| Week | Topic | Technical Content | Reading |
+| :---: | :---: | :---: | :---: |
+| Week 1<br>01/03/2022 | Intro | Computers/Codes, <br> GitHub,<br> Jupyter,<br> Markdown,<br> Python | ["What is Humanities Computing (and What Is Not)"](https://johnunsworth.name/texas-hc.html) |
+| Week 2<br>01/10/2022 | Data<br> & Python Fundamentals | Data (numbers, strings, lists, dicts),<br> Conditions and Loops (if, while, for),<br> Functions,<br> Modules | ["Computer Programming as an Art"](http://www.paulgraham.com/knuth.html)|
+| Week 3<br>01/17/2022<br>Remote Lab<br>Optional 3-hr jam session | Data Visualization<br> | Modules, Libraries, Matplotlib & Pandas | ["The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3) <br> ["Million Dollar Hoods"](https://milliondollarhoods.pre.ss.ucla.edu/) | 
+| Week 4<br>01/24/2022 | Data Viz Review & Mapping | Modules, Libraries, Pandas, Folium | ["An Illustrated Introduction to APIs"](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) <br> ["Automatically Processing Tweets from Gang-Involved Youth"] | 
+| Week 5<br>01/31/2022 | Getting Data:<br> Web Scraping and APIs | Twitter, BeautifulSoup, Census  |  ["Seven ways humanists are using computers to understand text."](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) <br> ["What Every Programmer ... Needs To Know ... To Work With Text"](https://kunststube.net/encoding/) | 
+| Week 6<br>02/07/2022 | Text Analysis | scikit-learn, nltk, spaCy (NLP) | ["How Data Science Pinpointed the Creepiest Word in Macbeth"]() | 
+| Week 7<br>02/14/2022 | Stats & Modeling:<br> Making recommendations, predictions, and arguments | scikit-learn, VADER (sentiments) | ["Timnit Gebru’s Exit From Google Exposes a Crisis in AI"](https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/) <br> ["How Netflix Reverse-Engineered Hollywood"] | 
+| Week 8<br>02/21/2022<br>Remote Lab<br>Optional 3-hr jam session | Network Analysis<br> | networkx, Bokeh | ["Demystifying Networks"](http://www.scottbot.net/HIAL/index.html@p=6279.html) <br> ["Unicorns, Janitors, Ninjas, Wizards, and Rock Stars"](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3) | Assignment |
+| Week 9<br>02/28/2022 | Data Pipelines & Data Stories | GitHub Pages | Find-your-own-reading | 
+| Week 10<br>03/07/2022 | Data Pipelines & Data Stories II |  | | 
+| Finals Week<br>03/14/2022 | Project Presentations |  |  |
 
-The University of California is committed to creating and maintaining a community where all individuals who participate in University programs and activities can work and learn together in an atmosphere free of harassment, exploitation, or intimidation. Every member of the community should be aware that the University prohibits sexual harassment and sexual violence, and that such behavior violates both law and University policy. The University will respond promptly and effectively to reports of sexual harassment and sexual violence, and will take appropriate action to prevent, to correct, and when necessary, to discipline behavior that violates our policy.
+## How to ask a technical question
 
-All Extension students and instructors who believe they have been sexually harassed are encouraged to contact the Department of Student and Alumni Services for complaint resolution: UCLA Extension, 1145 Gayley Ave., Los Angeles, CA 90024; Voice/TTY: (310) 825-7031. View the University’s full Policy on Sexual Harassment and Sexual Violence at http://policy.ucop.edu/doc/4000385/SHSV.
+Given the nature of the course, you will have many, many questions along the way. However, please adhere to the following guidelines in order to make consultations as productive as possible. Students who do not follow these guidelines will be asked to reschedule.
 
-# Additional Items
+Before asking a question:
 
-## Protecting Privacy and Data During Live Instruction
+1. Close all open programs, restart your computer, then try your task again
+1. Search google and stackoverflow for the topic/problem (for example, the name of the function you’re struggling with or the error message you are seeing)
+1. Go back through the relevant lecture materials to look for any insights
+1. Go back through the assigned reading materials to look for any insights
 
-Live meeting sessions for this class, when applicable, are being conducted over Zoom. As the host, the instructor may be recording live sessions. Only the host has the ability to record meetings, no recording by other means is permitted. Recorded sessions will be posted in the Videos area of this class unless otherwise notified. Due to privacy, recordings are not available for download and are only accessible via Canvas for the duration of the class. If you have privacy concerns and do not wish to appear in the recording, do not turn on your video and/or audio. If you also prefer to use a pseudonym instead of your name, please let the instructor know what name you will be using so that the instructor knows who you are during the session. To rename yourself during a Zoom meeting, click on Participants, click on your name, click on More, click on Rename. If you would like to ask a question, you may do so privately through the Zoom chat by addressing your chat question to the instructor only (and not to ""everyone""). Additionally, chat may be used and moderated for live questions, and saving of chats is enabled. If you have questions or concerns about this, please contact the instructor via Canvas Inbox.
+If the above steps haven’t solved your problem, send an email (or attend office hours) and include the following information:
 
-Pursuant to the terms of the agreement between Zoom and UCLA Extension, the data is used solely for this purpose and Zoom is prohibited from re-disclosing this information. UCLA Extension also does not use the data for any other purpose. Recordings will be deleted when no longer necessary. However, recordings may become part of an administrative disciplinary record if misconduct occurs during a video conference.
+1. A detailed description of what you’re trying to do, why, and how
+1. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
+1. What you’ve already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
-## Course and Instructor Evaluation
+## Readings and Resources
 
-UCLA Extension values your feedback on course and instructor evaluations. We ask all students to take a few minutes to complete an end-of-course evaluation survey. Updates to the course and instruction are influenced by your feedback. Understanding your student experience is essential to ensure continuing excellence in the online classroom and is appreciated by your instructor and the UCLA Extension academic leadership.
+Readings will be posted in the assignment sections for each week. The following are a list of resources to help you with the more technical aspects of the course:
 
-Your participation in a survey is voluntary, and your responses are confidential. After instructors submit grades, they will be given an evaluation report, but this report will not contain your name.
+* [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
+* [Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://learnpythonthehardway.org/python3/) by Zed A. Shaw
+* Jupyter Notebooks [Documentation](https://jupyter.readthedocs.io/en/latest/index.html)
+* [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+  * Melanie Walsh at the University of Washington
+* [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) (R focused)
+  * University of Chicago
+* [gboeing/ppd534: USC PPD534: Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)
+  * Goeff Boeing at the University of Southern California
 
-## About Your Online Course Materials
-Please note the following about online course components at UCLA Extension:
+## Statement of Affirmation
 
-* Students must have basic computer skills, including the use of word processing software, email, and the ability to use internet browsers, such as Safari, Firefox, or Chrome.
-* Students are responsible for meeting the technical requirements of Canvas and familiarizing themselves with the Canvas Learning Management System.
-  * What are the basic computer specifications for Canvas? - https://community.canvaslms.com/docs/DOC-10721
-  * Which browsers does Canvas support? - https://community.canvaslms.com/docs/DOC-10720
-* Students are responsible for keeping a copy of all assignments and work submitted, and to be aware of all assignments, due dates, and course guidelines.
-* Students are encouraged to keep and/or download a local copy of their assignment files, as *access to the online environment of a specific course is limited to 30 days after the final course date*, as listed in the course catalog.
+I intend to make this classroom a space that affirms all identities and perspectives, including your race, color, national origin, ethnic origin, ancestry, marital status, religion, age, sex, gender, gender expression, gender identity, transgender status, pregnancy, physical or mental disability, medical condition, genetic information (including family medical history), sexual orientation, political ideology and affiliations, citizenship, or service in the uniformed services. Regardless of background, all students have a right to an equitable education. Because of the multi-faceted and complex nature of our identities, it is imperative that we are committed to affirming one another’s perspectives as a community for all enrolled in this course. I encourage all members to embrace and learn from the diversity in this classroom, school, and university. I want to highlight that discrimination, harassment, or forms of hateful transgressions will not be tolerated in our learning environment. If you have any recommendations about how to make our environment more inclusive please feel free to let me know.
 
-To download all your assignment submissions in Canvas, please refer to the online support guide. for more information or contact Canvas Support via the help menu within Canvas.
+## Covid-19 and return to campus information
 
-## UCLA Extension Canvas and Learning Support
-*For immediate 24/7 Canvas technical support*, including holidays, click on *Help* (located on the menu to the left) where you can call or chat live with a Canvas Support representative.
+UCLA’s return to campus guidelines
 
-*UCLA Extension Instructional Design and Learning Support*
-The UCLA Extension Learning Support staff assists both students and instructors with Canvas-related technical support, as well as general and administrative questions.
+* https://covid-19.ucla.edu/ucla-return-to-campus/
 
-Learning Support staff is available Monday through Friday, from 8 AM to 5 PM (Pacific Time), except holidays:
+UCLA’s Basic Needs COVID-19 Resource Guide
 
-* Email: support@unexonline.zendesk.com
-* Website: http://support.uclaextension.edu
+* https://docs.google.com/document/d/1AUbLyaeYTLGPY1tnDJTG3ROzXKVY0QvF5oOy9_ZLmKo/edit
 
-## Campus Safety Escorts
+The Luskin School of Public Affairs also maintains a Covid-19 FAQ resource page compiling information relevant to Covid-19 and its impacts.
 
-For students taking classes held on the UCLA campus and in and around Westwood Village, the UCLA Police Department provides a free walking escort service every day of the year from dusk until 1 a.m. Community Service Officers (CSOs) are available to walk students, faculty, staff members and visitors to and from anywhere on campus, in Westwood Village, and in the village apartments. CSOs are uniformed students who have received special training and are employed by the UCLA Police Department. To obtain an escort, please call (310) 794-9255 and allow 15 to 20 minutes for your escort to arrive. For complete information, see: https://www.ucpd.ucla.edu/services/community-service-officers-csos/evening-escorts
+* https://luskin.ucla.edu/covid-19-faq
 
-# Schedule
+## Academic Integrity
 
-| MODULE | TOPIC | ASSIGNMENT |
-| :--- | :--- | :--- |
-| 1 | Managing Data <br> * Concept of Relational Database <br> * SQL Programming | MySQL Exercise 1:<br>This assignment gives you the opportunity to get familiar with basic concept and functions of MySQ for data management|
-| 2 | Managing Data <br> * SQL Programming | MySQL Exercise 2: <br> This assignment gives you the opportunity to get familiar with basic SQL programming for data management |
-| 3 | Storytelling Using Data <br> * Exploratory and Visualization <br> * Tableau | Tableau Exercise 1: <br> This assignment gives you the opportunity to get familiar with visualization concepts and Tableau as an exploratory and visualization tool. |
-| 4 | Storytelling Using Data <br> * Tableau | Tableau Exercise 2: <br> This assignment gives you the opportunity to get familiar with visualization concepts and Tableau as an exploratory and visualization tool. |
-| 5 | Statistics Thinking | Statistics Thinking Exercise 1: <br> This assignment gives you the opportunity to get familiar with basic statistics concepts that are useful and relevant in data analytics. |
-| 6 | Data Engineering with Python and SQL | Data Engineering Exercise 1: <br> This assignment gives you the opportunity to get familiar with basic data engineering techniques and the integration of Python and SQL. |
-| 7 | Machine Learning Techniques using Python and SQL | Machine Learning Exercise 1: <br> This assignment gives you the opportunity to get familiar with ML concept. |
-| 8 | Machine Learning Techniques using Python and SQL | Machine Learning Exercise 2: <br> This assignment gives you the opportunity to get familiar with ML concept. |
-| 9 | Machine Learning Techniques using Python and SQL | Machine Learning Exercise 3: <br> This assignment gives you the opportunity to get familiar with ML concept. |
-| 10 | Natural Language Processing (NLP) | NLP Exercise 1: <br> This assignment gives you the opportunity to get familiar with NLP. |
-| 11 | Introduction to R | |
+UCLA is a community of scholars. In this community, we are all responsible for maintaining standards of academic honesty. As a member of the University community, you are expected to demonstrate integrity in your academic endeavors. You are evaluated on your own merits. I encourage interaction whil learning the material, but cheating, plagiarism, collaborative work on written assignments such that you are sharing answers, or other kinds of academic dishonesty are unacceptable and may result in formal disciplinary proceedings, which may result in suspension or dismissal.
 
+**Don’t take chances.** Ask me if you are unclear about UCLA policy. Ignorance is NO defense. In addition, avoid placing yourself in situations which might lead me to suspect you of cheating.
+
+**Alternatives to dishonest behavior:**
+
+* **Seek out help.** Talk with me to see if there is special tutoring or other arrangements to be made.
+* **Drop the course.** Can you take it again in the future when you might feel more prepared or less pressured?
+* **See a counselor.** UCLA has many resources for students who are feeling the stresses of academic and personal pressures.
+
+You have worked very hard to get here, so don’t cheat! You don’t need to. If you would like more information, please see the Dean of Students’ Office in 1206 Murphy Hall, call (310) 825-3871, or visit their website at www.deanofstudents.ucla.edu.
+
+## Student Resources for Support and Learning
+
+**Providing feedback to me:** I encourage your feedback at any time throughout the quarter about things that are helping you learn, or things that aren’t helping. Please communicate with me if there are ways that we can improve the course.
+
+**Personal problems:** Sometimes, factors out of our control make it difficult to focus on schoolwork. If you are having a personal problem that affects your participation, please talk to me so we can create a plan. If you are not comfortable speaking with me directly, please utilize the other student resources provided below in order to understand how to best approach success in this course given your personal needs. Please do not wait until the end of the quarter to share any challenges that have negatively impacted you. The sooner we meet, the more options we will have to support your overall academic success.
+
+**Academic accomodations based on a disability:** If you are already registered with the Center for Accessible Education (CAE), please request your Letter of Accommodation on the Student Portal. If you are seeking registration with the CAE, please submit your request for accommodations via the CAE website. Please note that the CAE does not send accommodations letters to instructors–you must request that I view the letter in the online Faculty Portal. Once you have requested your accommodations via the Student Portal, please notify me immediately so I can view your letter. Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the CAE website (www.cae.ucla.edu), visit the CAE at A255 Murphy Hall, or contact by phone at (310) 825-1501.
+
+**Campus Resources and Support Services around UCLA Available to Students:**
+
+* **Students in Crisis:** From the Office of the Dean of Students: Faculty and Staff 911 Guide for Students, commonly known as the “Red Folder.” This tool is intended to provide you with quick access to important resources for assisting students in need.
+* **Bruin Resource Center:** Includes services for transfer students, undocumented students, veterans, and students with dependents. www.brc.ucla.edu
+* **Counseling and Psychological Services Wooden Center West:** (310) 825-0768, www.caps.ucla.edu
+* **Letters & Science Counseling Service:** A316 Murphy Hall: (310) 825-1965, www.college.ucla.edu
+* **Academics in the Commons at Covel Commons:** (310) 825-9315, free workshops on a wide variety of issues relating to academic & personal success, www.orl.ucla.edu (click on “academics”)
+* **Lesbian, Gay, Bisexual and Transgender Resource Center Student Activities Center, B36:** (310) 206-3628, www.lgbt.ucla.edu
+* **Center for Accessible Education (Formerly Office for Students with Disabilities):** A255 Murphy Hall: (310) 825-1501, TDD (310) 206-6083; www.cae.ucla.edu
+* **Dashew Center for International Students and Scholars:** 106 Bradley Hall: (310) 825-1681, www.internationalcenter.ucla.edu
+* **Student Legal Services:** A239 Murphy Hall: (310) 825-9894, www.studentlegal.ucla.edu
+* **Dean of Students Office:** 1206 Murphy Hall: (310) 825-3871, www.deanofstudents.ucla.edu
