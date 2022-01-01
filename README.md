@@ -1,8 +1,8 @@
 #  Coding for Humanities
-## UCLA DH140 / DH250-Seminar-2
-## Winter 2022
+### UCLA DH140 / DH250-Seminar-2
+Winter 2022
 
-# Meeting Times
+### Meeting Times
 Mondays 2:00pm - 4:50pm, Rolfe Hall 2118
 
 * The first two weeks will be held on Zoom
