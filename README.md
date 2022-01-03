@@ -110,6 +110,8 @@ Late Work
   * [https://github.com/](https://github.com/)
 * Make sure you can log into the class JupyterHub
   * [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA for authentication)
+* During each class, you should visit the following link to get weekly course-material updates
+  * [Pull the latest updates to JupyterHub](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbenjum%2FUCLA-22W-DH140&urlpath=lab%2Ftree%2FUCLA-22W-DH140%2F&branch=main)
 
 | Week | Topic | Technical Content | Reading |
 | :---: | :---: | :---: | :---: |
