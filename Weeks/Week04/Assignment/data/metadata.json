@@ -1,0 +1,100 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "years": "2015-2019",
+        "name": "ACS 2019 5-year"
+    },
+    "tables": {
+        "B03002": {
+            "title": "Hispanic or Latino Origin by Race",
+            "universe": "Total Population",
+            "denominator_column_id": "B03002001",
+            "columns": {
+                "B03002001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B03002002": {
+                    "name": "Not Hispanic or Latino:",
+                    "indent": 1
+                },
+                "B03002003": {
+                    "name": "White alone",
+                    "indent": 2
+                },
+                "B03002004": {
+                    "name": "Black or African American alone",
+                    "indent": 2
+                },
+                "B03002005": {
+                    "name": "American Indian and Alaska Native alone",
+                    "indent": 2
+                },
+                "B03002006": {
+                    "name": "Asian alone",
+                    "indent": 2
+                },
+                "B03002007": {
+                    "name": "Native Hawaiian and Other Pacific Islander alone",
+                    "indent": 2
+                },
+                "B03002008": {
+                    "name": "Some other race alone",
+                    "indent": 2
+                },
+                "B03002009": {
+                    "name": "Two or more races:",
+                    "indent": 2
+                },
+                "B03002010": {
+                    "name": "Two races including Some other race",
+                    "indent": 3
+                },
+                "B03002011": {
+                    "name": "Two races excluding Some other race, and three or more races",
+                    "indent": 3
+                },
+                "B03002012": {
+                    "name": "Hispanic or Latino:",
+                    "indent": 1
+                },
+                "B03002013": {
+                    "name": "White alone",
+                    "indent": 2
+                },
+                "B03002014": {
+                    "name": "Black or African American alone",
+                    "indent": 2
+                },
+                "B03002015": {
+                    "name": "American Indian and Alaska Native alone",
+                    "indent": 2
+                },
+                "B03002016": {
+                    "name": "Asian alone",
+                    "indent": 2
+                },
+                "B03002017": {
+                    "name": "Native Hawaiian and Other Pacific Islander alone",
+                    "indent": 2
+                },
+                "B03002018": {
+                    "name": "Some other race alone",
+                    "indent": 2
+                },
+                "B03002019": {
+                    "name": "Two or more races:",
+                    "indent": 2
+                },
+                "B03002020": {
+                    "name": "Two races including Some other race",
+                    "indent": 3
+                },
+                "B03002021": {
+                    "name": "Two races excluding Some other race, and three or more races",
+                    "indent": 3
+                }
+            }
+        }
+    }
+}
